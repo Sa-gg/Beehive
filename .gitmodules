@@ -1,0 +1,6 @@
+[submodule "BEEHIVE-FRONTEND"]
+	path = BEEHIVE-FRONTEND
+	url = https://github.com/Sa-gg/BEEHIVE-FRONTEND.git
+[submodule "BEEHIVE-BACKEND"]
+	path = BEEHIVE-BACKEND
+	url = https://github.com/Sa-gg/BEEHIVE-BACKEND.git
